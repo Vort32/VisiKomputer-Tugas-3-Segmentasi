@@ -1,5 +1,7 @@
 Nama  : Muhammad Arianda Saputra
+
 Nim   : 2209106027
+
 Kelas : Visi Komputer
 
 Segmentasi Gambar Menggunakan Model YOLOv8
